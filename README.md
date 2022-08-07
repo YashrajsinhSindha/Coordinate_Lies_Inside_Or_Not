@@ -9,4 +9,5 @@ Now Enter your coordinate(Latitude,Longitude) value to check it lies in the Desi
 If it lies it will return true otherwise it will return false
 
 
+NOTE: This repository has no relation with Spring The logic is totally written in JavaScript I just used Spring You can use anything you want
 
